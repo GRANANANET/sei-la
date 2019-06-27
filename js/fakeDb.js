@@ -23,7 +23,7 @@ var dados = {
   "location": null,
   "email": null,
   "hireable": null,
-  "bio": null,
+  "bio": "quem quer bitcoin",
   "public_repos": 6,
   "public_gists": 0,
   "followers": 0,
